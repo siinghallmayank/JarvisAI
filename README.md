@@ -15,10 +15,10 @@ JarvisAI can **understand voice commands**, **open websites**, **search Wikipedi
 
 JarvisAI/
 │
-├─ main.py # Main program
-├─ modules/ # Optional: separate modules for commands
+├─ main.py                 # Main program
+├─ modules/
 │ ├─ speech.py
 │ └─ commands.py
-├─ requirements.txt # Python dependencies
-├─ .venv/ # Virtual environment (ignored in GitHub)
-└─ data/ # Optional: logs, audio files, etc
+├─ requirements.txt        #Python dependencies
+├─ .venv/                  # Virtual environment (ignored in GitHub)
+└─ data/                   # Optional: logs, audio files, etc
